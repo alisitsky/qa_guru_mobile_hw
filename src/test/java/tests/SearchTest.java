@@ -31,7 +31,7 @@ public class SearchTest {
         caps.setCapability("os_version", "9.0");
 
         // Set other BrowserStack capabilities
-        caps.setCapability("project", "First Java Project");
+        caps.setCapability("project", "First Java Project_1");
         caps.setCapability("build", "browserstack-build-1");
         caps.setCapability("name", "first_test");
 
